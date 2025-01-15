@@ -3,16 +3,24 @@
 <p>Ce projet consiste à développer un micro-service de chatbot intelligent en utilisant l'architecture RAG. Il combine des technologies modernes de NLP (traitement du langage naturel) et de recherche d'information pour créer un système capable de fournir des réponses précises et contextuelles. Ce type de chatbot est idéal pour des applications nécessitant une interaction naturelle et une forte dépendance à une base de connaissances spécifique.</p>
 ---
 
+<img src="Screens/1.png" alt="first" />
+
+
 ### Chatbot:
 - **Deux Modes**:
   - Mode Question Générale: Répond aux questions des utilisateurs en utilisant un modèle de langage.
   - Mode Question PDF: Répond aux questions basées sur le contenu d'un fichier PDF local.
-    
+
+<img src="Screens/2.png" alt="first" />
+<img src="Screens/3.png" alt="first" />
+
   
 
 - **Composants**:
   - **Chargeur de PDF**: Analyse et extrait le texte des fichiers PDF téléchargés.
   - **Moteur de Recherche LLM**: Utilise LangChain pour interroger les connaissances générales ou le contenu d'un PDF.
+<img src="Screens/4.png" alt="first" />
+<img src="Screens/5.png" alt="first" />
 
 ----
 Auteur:
