@@ -9,16 +9,12 @@
 ### Chatbot:
 - **Deux Modes**:
   - Mode Question Générale: Répond aux questions des utilisateurs en utilisant un modèle de langage.
+  - 
+  <img src="Screens/2.png" alt="first" />
+  <img src="Screens/3.png" alt="first" />
+  
   - Mode Question PDF: Répond aux questions basées sur le contenu d'un fichier PDF local.
 
-<img src="Screens/2.png" alt="first" />
-<img src="Screens/3.png" alt="first" />
-
-  
-
-- **Composants**:
-  - **Chargeur de PDF**: Analyse et extrait le texte des fichiers PDF téléchargés.
-  - **Moteur de Recherche LLM**: Utilise LangChain pour interroger les connaissances générales ou le contenu d'un PDF.
 <img src="Screens/4.png" alt="first" />
 <img src="Screens/5.png" alt="first" />
 
