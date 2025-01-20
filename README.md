@@ -9,7 +9,7 @@
 ### Chatbot:
 - **Deux Modes**:
   - Mode Question Générale: Répond aux questions des utilisateurs en utilisant un modèle de langage.
-  - 
+    
   <img src="Screens/2.png" alt="first" />
   <img src="Screens/3.png" alt="first" />
   
@@ -21,7 +21,7 @@
 ----
 Auteur:
 ----
-Realiseé par: <br>
+Realisé par: <br>
 RIZKI Mohamed Amine <br>
 SERNANE Yahya <br>
 EL MALKY Douaa <br>
